@@ -15,7 +15,7 @@
 |Part|Amazon|Ali Express|
 |----|------|-----------|
 |Systemprofile 20x20|[~10,00€/2m ](https://www.amazon.de/dp/B07D7TX4JL/?coliid=IP7HWGE6VGVL&colid=269U9QX0R4I7&psc=0&ref_=lv_ov_lig_dp_it)||
-|Corner connector|[~9,00€/10|(https://www.amazon.de/dp/B07D2GMQVQ/?coliid=I19UUK88FBEBLB&colid=269U9QX0R4I7&psc=0&ref_=lv_ov_lig_dp_it)||
+|Corner connector|[~9,00€/10](https://www.amazon.de/dp/B07D2GMQVQ/?coliid=I19UUK88FBEBLB&colid=269U9QX0R4I7&psc=0&ref_=lv_ov_lig_dp_it)||
 |T-Slot connector|[~9,00€/100](https://www.amazon.de/dp/B079PPJTGW/?coliid=IJQTN91683XQ3&colid=269U9QX0R4I7&psc=0)||
 
 ## Supplemental
