@@ -21,4 +21,4 @@
 ## Supplemental
 |Part|Amazon|Ali Express|
 |----|------|-----------|
-|PCB Mount Screw|[~8,00€](https://www.amazon.de/dp/B01MT4LC0F/?coliid=I1EXPTAV0TP9WM&colid=269U9QX0R4I7&psc=0&ref_=lv_ov_lig_dp_it)||
+|PCB Mount Screw|[~8,00€/50 pieces](https://www.amazon.de/dp/B01MT4LC0F/?coliid=I1EXPTAV0TP9WM&colid=269U9QX0R4I7&psc=0&ref_=lv_ov_lig_dp_it)|[~1,20$/20 pieces](https://www.aliexpress.com/item/20Pcs-2-Pole-5mm-Pitch-PCB-Mount-Screw-Terminal-Block-8A-250V/32845886100.html?spm=2114.search0204.3.1.2094931bWhGFDu&ws_ab_test=searchweb0_0,searchweb201602_1_10320_10065_10068_318_10547_10548_10696_10084_10083_10618_452_10304_10307_10820_532_10821_5727311_10302_204_10843_10059_5727211_10884_10887_100031_10319_10103,searchweb201603_60,ppcSwitch_0_ppcChannel&algo_expid=5573d481-1c34-4622-a3e3-f4fd20e727f5-3&algo_pvid=5573d481-1c34-4622-a3e3-f4fd20e727f5&priceBeautifyAB=0)|
