@@ -15,8 +15,8 @@
 |Part|Amazon|Ali Express|
 |----|------|-----------|
 |Systemprofile 20x20|[~10,00€/2m](https://www.amazon.de/dp/B07D7TX4JL/?coliid=IP7HWGE6VGVL&colid=269U9QX0R4I7&psc=0&ref_=lv_ov_lig_dp_it)||
-|Corner connector|[~9,00€/10 pieces](https://www.amazon.de/dp/B07D2GMQVQ/?coliid=I19UUK88FBEBLB&colid=269U9QX0R4I7&psc=0&ref_=lv_ov_lig_dp_it)||
-|T-Slot connector|[~9,00€/100 pieces](https://www.amazon.de/dp/B079PPJTGW/?coliid=IJQTN91683XQ3&colid=269U9QX0R4I7&psc=0)||
+|Corner connector|[~9,00€/10 pieces](https://www.amazon.de/dp/B07D2GMQVQ/?coliid=I19UUK88FBEBLB&colid=269U9QX0R4I7&psc=0&ref_=lv_ov_lig_dp_it)|[~1.40$/10pieces](https://www.aliexpress.com/item/10PC-T-slot-L-type-90-degree-EU-standard-2020-aluminum-profile-Inside-corner-connector-bracket/32799109924.html?spm=2114.search0204.3.115.6e9b74bce1m6tt&ws_ab_test=searchweb0_0,searchweb201602_1_10320_10065_10068_318_10547_10548_10696_10084_10083_10618_452_10304_10307_10820_532_10821_5727311_10302_204_10843_10059_5727211_10884_10887_100031_10319_10103,searchweb201603_60,ppcSwitch_0_ppcChannel&algo_expid=ed6cb00f-540e-499f-b4d0-b007a71d6f84-14&algo_pvid=ed6cb00f-540e-499f-b4d0-b007a71d6f84&priceBeautifyAB=0)|
+|T-Slot connector|[~9,00€/100 pieces](https://www.amazon.de/dp/B079PPJTGW/?coliid=IJQTN91683XQ3&colid=269U9QX0R4I7&psc=0)|[~2,50$/50pieces](https://www.aliexpress.com/item/HOT-Carbon-steel-T-type-Nuts-Fastener-Aluminum-Connector-M3-M4-M5-For-EU-Standard-2020/32898416076.html?spm=2114.search0204.3.8.30ac6cc6BEBLI7&ws_ab_test=searchweb0_0,searchweb201602_1_10320_10065_10068_318_10547_10548_10696_10084_10083_10618_452_10304_10307_10820_532_10821_5727311_10302_204_10843_10059_5727211_10884_10887_100031_10319_10103,searchweb201603_60,ppcSwitch_0_ppcChannel&algo_expid=11149b34-bc39-4e3f-9294-0bbd73c0bebd-0&algo_pvid=11149b34-bc39-4e3f-9294-0bbd73c0bebd&priceBeautifyAB=0)|
 
 ## Supplemental
 |Part|Amazon|Ali Express|
